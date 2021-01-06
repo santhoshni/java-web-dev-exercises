@@ -8,6 +8,7 @@ public class Area {
 
     public static void main(String args[]) {
         double r;
+        int i=0;
         double pi = 3.14, area;
         Scanner s = new Scanner(new InputStreamReader(System.in));
         System.out.print("Enter a radius :");
